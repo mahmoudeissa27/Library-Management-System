@@ -1,20 +1,28 @@
 # Library Management System
 
-A Java console-based application that manages library operations such as borrowing, returning, searching, and sorting books.
+## Overview
+
+This is a console-based Java application designed to manage library operations. The system allows users to display available books, borrow and return books, search for books by different criteria, and sort the collection efficiently. It demonstrates the use of Object-Oriented Programming (OOP) principles and common data structures.
 
 ## Features
 
-- Display books
-- Borrow and return books
-- Search and sort books
-- Manage members and loans
+- Display all books in the library
+- Borrow books and manage loans
+- Return borrowed books
+- Search books by title, author, or genre
+- Sort books by different attributes
+- Manage member information
+- Handle pending book requests
 
-## How to Run
+## Technologies Used
 
-1. Clone the repo.
-2. Open in your favorite IDE.
-3. Run Main.java.
+- Java
+- Object-Oriented Programming (OOP)
+- Data Structures (Linked Lists, Queues, Stacks)
+- Console Input/Output
 
-## Author
+## How to Run the Application
 
-Mahmoud Eissa
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/mahmoudeissa27/Library-Management-System.git
